@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ItemCollection>
+  <Items>
+    <Item title ="Movement">
+      <Info>
+Movement can be done using the Arrow Keys or WASD for forwards, left, back and right. You can use a scroll wheel to zoom in or out and the Q and E buttons to rotate left or right around a point.
+      </Info>
+      <Image></Image>
+    </Item>
+    <Item title ="Building">
+      <Info>
+To build buildings, you should first click the build button in the bottom right. 
+Then you simply need to click on a building and place it in your scene, the price and build time will be shown above.
+      </Info>
+      <Image>Sprites/HelpSprites/Building</Image>
+    </Item>
+    <Item title ="Driving">
+      <Info>
+To drive a vehicle, first click on a service building and click the exclamation mark. This will spawn a vehicle outside of the building which you can control using WASD. 
+Each vehicle can hold up to 4 passengers or criminals, so make use of the space if you can.
+To park a vehicle when you are finished, simply drive it into the highlighted area outside the service building.
+      </Info>
+      <Image>Sprites/HelpSprites/Driving</Image>
+    </Item>
+    <Item title ="Shoot Out">
+      <Info>
+When you drive into a house that is being robbed's range, a police officer will get out of the police van and the robber will come out to fight him.
+This results in a shootout, just point your mouse in the robbers direction and click, just hope your aim is straight.
+If the robbers health is 0 then he'll get into the van and you can escort him back to the station, else he'll disappear in a puff of smoke. 
+      </Info>
+      <Image>Sprites/HelpSprites/ShootOut</Image>
+    </Item>
+    <Item title ="Fire Engine">
+      <Info>
+If a house is burning down, you'll need to get a fire truck from the station and drive it to the building in trouble.
+When you arrive there, the hose will turn on and will point towards where your mouse is on the screen. When you have sprayed the fire enough, it will go out, magic!
+      </Info>
+      <Image>Sprites/HelpSprites/FireEngine</Image>
+    </Item>
+    <Item title ="Ambulance">
+      <Info>
+Ambulances are easy, just drive to the house, pick up the patient and get them to the hospital, no one to fight and no danger, unless your too slow and they die.
+      </Info>
+      <Image>Sprites/HelpSprites/Ambulance</Image>
+    </Item>
+  </Items>
+</ItemCollection>
